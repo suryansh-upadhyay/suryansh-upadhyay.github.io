@@ -6,5 +6,3 @@ inline: true
 ---
 
 Delivered a guest lecture on Quantum Computing and Security at IIT Roorkee, India.
-
----
