@@ -1,7 +1,10 @@
 ---
+
 layout: post
-date: 2022-11-17 07:59:00-0400
+date: 2023-08-10 07:59:00-0400
 inline: true
 ---
 
-Our paper entitled "Cross-sectional Observational Study of Typical in-utero Fetal Movements using Machine Learning" was accepted by Developmental Neuroscience!
+Led organization of the College of Engineering Research Symposium (CERS 2023), securing $8000+ in funding and hosting 200+ attendees.
+
+---
