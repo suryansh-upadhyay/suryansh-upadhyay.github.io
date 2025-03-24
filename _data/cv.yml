@@ -2,65 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Junshen Xu
+      value: Suryansh Upadhyay
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Email
-      value: junshen [at] mit [dot] edu
+      value: sju5079 [at] psu [dot] edu
     - name: Languages
-      value: English, Chinese
+      value: English, Hindi
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2023
-    - title: S.M. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2020
-      #description:
-      #  - Description 1.
-      #  - Description 2.
-    - title: B.E. in Engineering Physics
-      institution: Tsinghua University
-      year: 2014 - 2018
+- title: Education  
+  type: time_table  
+  contents:  
+    - title: Ph.D. in Electrical and Electronics Engineering  
+      institution: Pennsylvania State University  
+      year: 2021 – Present  
+      description:  
+        - GPA: 3.8/4.0  
+    - title: B.E. in Electronics and Instrumentation Engineering  
+      institution: BITS Pilani  
+      year: 2014 – 2018  
+      description:  
+        - GPA: 8.18/10  
       #description:
       #  - Description 1.
       #  - Description 2.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: Massachusetts Institute of Technology
-      year: 2018 - present
-      description:
-        - 2D-to-3D reconstruction
-        - Image quality assessment
-        - 3D pose estimation pipeline for fetal MRI
-    - title: Machine Learning Engineer Intern
-      institution: Instagram Reels Core Ranking @ Meta
-      year: May - Aug 2022
-      description:
-        - Mitigated short video bias in Reels
-    - title: Software Engineer Intern
-      institution: Adwords Insights Team @ Google
-      year: Jun - Aug 2021
-      description:
-        - Improved keyword classification in search ads
-        - Developed algorithms to detect the cold start of bidding strategies
-    - title: Research Scientist Intern
-      institution: United Imaging Intellignece America
-      year: Jun - Aug 2020
-      description:
-        - Multi-modal image registration with neural ODE
-        - Differentiable Digitally Reconstructed Radiograph (DRR)
-    - title: Research Assistant
-      institution: Stanford University
-      year: Jun - Aug 2017
-      description:
-        - Low dose PET reconstruction with deep learning
+# 
 
 # - title: Open Source Projects
 #   type: time_table
@@ -69,31 +36,52 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+- title: Experience  
+  type: time_table  
+  contents:  
+    - title: Graduate Teaching Assistant  
+      institution: Pennsylvania State University  
+      year: 08/2021 – Present  
+      description:  
+        - Delivered lectures/tutorials on quantum computing (Qiskit, Intel Quantum SDK).  
+        - Led analog circuit design labs using Cadence Virtuoso.  
+        - Instructed electronic circuit labs (oscilloscopes, DMM, signal generators).  
+    - title: Graduate Research Assistant  
+      institution: Pennsylvania State University  
+      year: 08/2021 – Present  
+      description:  
+        - Developed ML models to detect QNN vulnerabilities via gate-sequence analysis.  
+        - Proposed scheduler-level defenses against adversarial SWAP injections.  
+        - Optimized trapped-ion compiler policies for qubit-intensive programs.  
+    - title: Research Assistant  
+      institution: Centre for Nano Science and Engineering, IISc Bangalore  
+      year: 09/2018 – 06/2021  
+      description:  
+        - Fabricated AlGaN/GaN HEMTs with 10A on-current and 20nA gate leakage.  
+        - Characterized devices using Sentaurus TCAD and cleanroom tools.  
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Honors and Awards  
+  type: time_table  
+  contents:  
+    - year: 2024  
+      title: Melvin P. Bloom Memorial Graduate Fellowship  
+      items:  
+        - Awarded for academic excellence at Penn State.  
+    - year: 2020  
+      title: Best Poster Award (IEEE-ICEE)  
+      items:  
+        - Recognized for 500V AlGaN/GaN HEMT research.  
 
+- title: Skills  
+  type: nested_list  
+  contents:  
+    - title: Quantum Tools  
+      items:  
+        - Qiskit, Pennylane, CUDA-Q, Stim, Intel Quantum SDK  
+    - title: Programming  
+      items:  
+        - Python (PyTorch, TensorFlow, SK Learn), C, Verilog  
+    - title: Hardware Design  
+      items:  
+        - Cadence Virtuoso, RTL/Physical Design, SAR-ADC, NoC Skid Buffers  
