@@ -1,7 +1,6 @@
----
 layout: post
-date: 2022-08-12 07:59:00-0400
+date: 2024-02-10 07:59:00-0400
 inline: true
 ---
 
-My last day at Meta. I had a wonderful summer here! :sparkles: :smile:
+Our paper "Trustworthy Computing using Untrusted Cloud-Based Quantum Hardware" was accepted to *Frontiers in Computer Science* (Impact Factor 3.2).
