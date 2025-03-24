@@ -1,7 +1,10 @@
 ---
+
 layout: post
-date: 2023-01-09 07:59:00-0400
+date: 2023-05-12 07:59:00-0400
 inline: true
 ---
 
-Our paper entitled "NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI" was accepted by IEEE TMI!
+Delivered a guest lecture on Quantum Computing and Security at IIT Roorkee, India.
+
+---
