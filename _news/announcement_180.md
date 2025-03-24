@@ -1,7 +1,8 @@
 ---
+
 layout: post
-date: 2023-04-25 07:59:00-0400
+date: 2025-02-01 07:59:00-0400
 inline: true
 ---
 
-We just released [NeSVoR](https://github.com/daviddmc/NeSVoR) v0.2.0. Check it out!
+Appointed as Technical Program Committee (TPC) member for the QSYS track at *IEEE Quantum Week (QCE 2025)*.
