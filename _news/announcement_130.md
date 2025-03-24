@@ -1,7 +1,8 @@
 ---
+
 layout: post
-date: 2022-10-26 07:59:00-0400
+date: 2024-01-05 07:59:00-0400
 inline: true
 ---
 
-We just released [NeSVoR](https://github.com/daviddmc/NeSVoR): a package for motion-robust GPU-accelerated slice-to-volume reconstruction. Check it out!
+Presented "Stealthy SWAPs: Adversarial SWAP Injection" as an oral presentation at the *International Conference on VLSI Design (VLSID) 2024* (Acceptance rate: 20%).
