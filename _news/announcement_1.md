@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Dr. Nirmal K. Bose Dissertation Excellence Award (2025) – Honored for excellence in research at Penn State University.
