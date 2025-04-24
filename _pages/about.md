@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic1.jpg
+  image: Suryansh_Upadhyay.jpg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
